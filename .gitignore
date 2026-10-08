@@ -1,0 +1,23 @@
+# Client task pack and generated files that contain Kestrel identifiers.
+Document/
+predictions.csv
+artifacts/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.next/
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local environment files. This project does not need API keys.
+.env
+.env.*
+*.env
+!.env.example
